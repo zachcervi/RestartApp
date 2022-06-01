@@ -2,6 +2,11 @@ This is a basic app that utilizes touch gestures and animations. It also has sou
 
 Video Recording
 
+
+
+https://user-images.githubusercontent.com/20425044/171313368-5ef5e3ce-03e7-42cd-8677-4b440bc41c68.mp4
+
+
 Screen Shots
 ![Screenshot](screenshot1.png)
 
